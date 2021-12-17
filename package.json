@@ -1,0 +1,37 @@
+{
+  "name": "tumbas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0 -p ${PORT:-8080}"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "link-preview-generator": "^1.0.6",
+    "masonry-layout": "^4.2.2",
+    "next": "10.2.0",
+    "next-redux-wrapper": "^7.0.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "react-intl-tel-input": "^8.0.4",
+    "react-masonry-css": "^1.0.16",
+    "react-phone-number-input": "^3.1.23",
+    "react-redux": "^7.2.4",
+    "react-spinners": "^0.11.0",
+    "redux": "^4.1.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "sass": "^1.32.12",
+    "sweetalert2": "^11.0.18",
+    "swiper": "^6.5.9"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.13",
+    "tailwindcss": "^2.1.2"
+  }
+}
