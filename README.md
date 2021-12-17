@@ -10,6 +10,6 @@ Um clone da plataforma Pexels.
 - Tailwindcss
 - [Pexels API](https://pexels.com/api)
 
-- git clone this repository
-- run npm install
-- run npm run dev
+- git clone o repository
+- npm install
+- npm run dev
